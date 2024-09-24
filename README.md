@@ -1,8 +1,5 @@
 Basic React Projects:
-    BMI Calculator
-    when entered the data of height and weight it calculates the bmi (Body Mass Index) of Human 
-    as three categories 
-    underweight ,normal and obese
+   Random Advice or Quotes Generator Using API with indicating the count you read
 
 Do check it out here
-https://bmi-calculator-flax-eight.vercel.app/
+https://random-advice-gen-pink.vercel.app/
