@@ -1,4 +1,4 @@
-Basic React Projects:
+Basic React Projects :
    Random Advice or Quotes Generator Using API with indicating the count you read,.
 
 Do check it out here
